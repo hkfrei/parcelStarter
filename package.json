@@ -1,0 +1,18 @@
+{
+  "name": "parcelstarter",
+  "version": "1.0.0",
+  "description": "a starter template for a js application bundled wirth parcel 2 and eslint support.",
+  "main": "dist/index.html",
+  "author": "Karten-Werk GmbH, Hanskaspar Frei.",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "parcel": "^2.0.0-alpha.3.2"
+  },
+  "scripts": {
+    "lint": "eslint src/**/*.js",
+    "dev": "parcel serve src/index.html",
+    "prebuild": "rm -rf ./dist",
+    "build": "parcel build src/index.html"
+  }
+}
