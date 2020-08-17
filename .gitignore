@@ -69,7 +69,7 @@ jspm_packages/
 .eslintcache
 
 # parcel.js cache
-.cache
+.parcel.cache
 
 # Optional REPL history
 .node_repl_history
@@ -79,6 +79,8 @@ jspm_packages/
 
 # Yarn Integrity file
 .yarn-integrity
+
+yarn.lock
 
 # dotenv environment variables file
 .env
