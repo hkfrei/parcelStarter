@@ -1,7 +1,0 @@
-var $f5fdefe18d801be2e17a0789167587ba$exports = {};
-
-var $f5fdefe18d801be2e17a0789167587ba$export$init = function init() {
-  return console.log("init started, you are ready to roll!");
-};
-
-$f5fdefe18d801be2e17a0789167587ba$exports.init = $f5fdefe18d801be2e17a0789167587ba$export$init;
