@@ -1,0 +1,1 @@
+{"mappings":"AAA0BA,QAAQC,IAAI","sources":["./src/utils/init.js"],"sourcesContent":["export const init = () => console.log(\"init started, you are ready to roll!\");\n"],"names":["console","log"],"version":3,"file":"parcelStarter.HASH_REF_c0051593479851b44c4c68bd728cc288.js.map"}

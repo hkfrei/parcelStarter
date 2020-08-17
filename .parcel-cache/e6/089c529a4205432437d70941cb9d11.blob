@@ -1,0 +1,6 @@
+$parcel$require("0b350cd9db4549ae05bfb23b905ede80", "./utils/init");
+
+/*
+ * this file is used to initialize application
+ */
+$b350cd9db4549ae05bfb23b905ede80$import$init();

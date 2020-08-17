@@ -1,0 +1,7 @@
+var $f842351ebc157f8e915249f4ab2763c$exports = {};
+
+var $f842351ebc157f8e915249f4ab2763c$export$init = function init() {
+  return console.log("init started, you are ready to roll!");
+};
+
+$f842351ebc157f8e915249f4ab2763c$exports.init = $f842351ebc157f8e915249f4ab2763c$export$init;
