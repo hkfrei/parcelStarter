@@ -5,7 +5,7 @@
   "author": "Karten-Werk GmbH, Hanskaspar Frei.",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^7.7.0",
+    "eslint": "^7.8.1",
     "parcel": "^2.0.0-beta.1"
   },
   "scripts": {
@@ -15,6 +15,6 @@
     "build": "parcel build src/index.html"
   },
   "dependencies": {
-    "prettier": "^2.0.5"
+    "prettier": "^2.1.1"
   }
 }
